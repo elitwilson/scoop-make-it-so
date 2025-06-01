@@ -5,7 +5,7 @@
   "license": "MIT",
   "url": "https://github.com/elitwilson/make-it-so/releases/download/v0.1.4/mis-windows.zip",
   "hash": "5a750a15a558d5650abcb2f2fd4dd89d7f3509ccadec905765f1fe31efc7db60",
-  "bin": "make-it-so.exe",
+  "bin": "mis.exe",
   "checkver": {
     "github": "https://github.com/elitwilson/make-it-so"
   },
