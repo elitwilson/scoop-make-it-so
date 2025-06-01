@@ -10,6 +10,6 @@
     "github": "https://github.com/elitwilson/make-it-so"
   },
   "autoupdate": {
-    "url": "https://github.com/yourname/your-cli/releases/download/v$version/your-cli-windows.zip"
+    "url": "https://github.com/elitwilson/make-it-so/releases/download/v0.1.4/mis-windows.zip"
   }
 }
