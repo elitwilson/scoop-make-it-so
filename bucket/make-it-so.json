@@ -1,15 +1,15 @@
 {
-  "version": "0.3.4",
+  "version": "0.3.6",
   "description": "Make It So",
   "homepage": "https://github.com/elitwilson/make-it-so",
   "license": "MIT",
-  "url": "https://github.com/elitwilson/make-it-so/releases/download/v0.3.4/mis-windows.zip",
-  "hash": "34786e4d6cc5c20743342c3ae6616d6220122d633e2ebfb96758ea241a55630b",
+  "url": "https://github.com/elitwilson/make-it-so/releases/download/v0.3.6/mis-windows.zip",
+  "hash": "24acdaab7bd77a277215386dfce33899d8debdebba0bb678c61a6b6a1e1c067b",
   "bin": "mis.exe",
   "checkver": {
     "github": "https://github.com/elitwilson/make-it-so"
   },
   "autoupdate": {
-    "url": "https://github.com/elitwilson/make-it-so/releases/download/v0.3.4/mis-windows.zip"
+    "url": "https://github.com/elitwilson/make-it-so/releases/download/v0.3.6/mis-windows.zip"
   }
 }
